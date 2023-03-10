@@ -2,6 +2,8 @@
 ### Unhandled Command error loop
 ...
 
+Temporal Server Version: 1.18
+
 #### start the worker
 ```
 cd worker
