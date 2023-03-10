@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"go.opentelco.io/workertaskqueue"
+	workertaskqueue "github.com/lunne/temporal-workertaskqueue"
 	"go.temporal.io/sdk/client"
 	"go.temporal.io/sdk/worker"
 )

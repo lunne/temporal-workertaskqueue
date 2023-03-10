@@ -7,7 +7,7 @@ import (
 
 	"go.temporal.io/sdk/client"
 
-	"go.opentelco.io/workertaskqueue"
+	workertaskqueue "github.com/lunne/temporal-workertaskqueue"
 )
 
 func main() {

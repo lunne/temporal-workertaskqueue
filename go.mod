@@ -1,4 +1,4 @@
-module go.opentelco.io/workertaskqueue
+module github.com/lunne/temporal-workertaskqueue
 
 go 1.20
 
